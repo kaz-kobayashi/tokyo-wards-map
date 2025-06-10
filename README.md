@@ -1,5 +1,12 @@
 # tokyo-wards-map
 
+This project displays a simple Leaflet map focused on the Tokyo wards. Open
+`index.html` in any modern web browser to see it in action.
+
+The `scripts/app.js` file is currently empty and reserved for future
+
+JavaScript functionality.
+=======
 Tokyo Wards Map is an experimental project that provides an interactive map of Tokyo's 23 special wards. The aim is to visualize ward boundaries and basic information in a simple web interface.
 
 The project is built using standard web technologies (HTML, CSS and JavaScript). You can use any mapping library such as [Leaflet](https://leafletjs.com/) or [D3.js](https://d3js.org/) to render the geographic data. At the moment the repository does not contain a full implementation, but the steps below describe how you would typically set it up and run it once the source files are present.
@@ -35,4 +42,3 @@ Once the application is running you will be able to pan and zoom the map of Toky
 ## Contributing
 
 Feel free to submit pull requests or open issues if you would like to contribute or report a problem.
-
